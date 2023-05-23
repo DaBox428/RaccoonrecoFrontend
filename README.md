@@ -1,2 +1,5 @@
-# RaccoonrecoFrontend
-Proyecto de grado UTEC 2022, Frontend React
+# Raccoonreco-newFrontEnd
+Frontend proyecto final UTEC
+
+npm install -g yarn lerna
+yarn bootstrap
